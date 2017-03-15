@@ -4,7 +4,7 @@ public class Car extends Vehicle
 {
     private static final int taxe = 2;
 
-    Car(String mark, Main.Color color, float price)
+    Car(String mark, Color color, float price)
     {
         this.Mark = mark;
         this.Price = price;

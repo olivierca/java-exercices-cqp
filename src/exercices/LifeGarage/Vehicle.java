@@ -3,7 +3,7 @@ package exercices;
 abstract class Vehicle
 {
     protected String      Mark;
-    protected Main.Color  Color;
+    protected exercices.Color Color;
     protected float       Price;
 
     public String toString()
